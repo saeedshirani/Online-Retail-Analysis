@@ -1,6 +1,5 @@
 
-![Logo](https://i.ibb.co/ZVcjmxR/online-retail-analysis-high-resolution-logo.png)
-
+![Logo](https://i.ibb.co/M1jRx85/Online-retail-analysis-high-resolution-logo-2.png)
 
 
 
@@ -40,19 +39,13 @@ You can download the dataset of this project from the following link: [Online Re
 
 ![Python](https://i.ibb.co/hKkx37M/Python-logo-notext-svg.png) 
 
-![Data Cleaning](https://i.ibb.co/br9H5Fp/Data-cleaning-high-resolution-logo-transparent.png)
+![Data Cleaning](https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparent-1.png)
 
 
-![EDA](https://i.ibb.co/2Yfy55v/Eda-high-resolution-logo-transparent.png)
+![EDA](https://i.ibb.co/j8nWCSW/Eda-high-resolution-logo.png)
 
 
-![PowerBI](https://i.ibb.co/Tr9pjgB/Powerbi-logo-1.png)
-
-
-
-
-
-
+![PowerBI](https://i.ibb.co/MG3s0Df/Powerbi-logo-1.png)
 
 
 ## Contact
