@@ -37,7 +37,7 @@ You can download the dataset of this project from the following link: [Online Re
 
 
 
-![Python](https://i.ibb.co/hKkx37M/Python-logo-notext-svg.png) 
+![Python](https://i.ibb.co/x1QLmNY/Python-logo-notext-svg.png)
 
 ![Data Cleaning](https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparent-1.png)
 
@@ -45,7 +45,9 @@ You can download the dataset of this project from the following link: [Online Re
 ![EDA](https://i.ibb.co/j8nWCSW/Eda-high-resolution-logo.png)
 
 
-![PowerBI](https://i.ibb.co/MG3s0Df/Powerbi-logo-1.png)
+![PowerBI](https://i.ibb.co/PrqyqCr/Powerbi-logo-1.png)
+
+
 
 
 ## Contact
