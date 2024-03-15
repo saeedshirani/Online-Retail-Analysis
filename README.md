@@ -25,29 +25,15 @@ You can download the dataset of this project from the following link: [Online Re
 
 ## 🛠 Skills
 
-- **Python**
-- **Data Cleaning**
-- **Exploratory Data Analysis**
-- **RFM Segmentation**
-- **Writing Report**
-- **PowerBI**
-- **Creating Interactive Dashboards**
-
-
-
-
-
-![Python](https://i.ibb.co/x1QLmNY/Python-logo-notext-svg.png)
-
-![Data Cleaning](https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparent-1.png)
-
-
-![EDA](https://i.ibb.co/j8nWCSW/Eda-high-resolution-logo.png)
-
-
-![PowerBI](https://i.ibb.co/PrqyqCr/Powerbi-logo-1.png)
-
-
+| **`Tool`** | **`Icon`** |
+|---|---|
+| **`Python`** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Solide-State-1-Lab/assets/77902443/93f61ef1-817b-4866-ad40-b0334c345cae" width="150px"/> |
+| **`PowerBI`**| <img alt="Go SDK" src=https://github.com/saeedshiranii/Global-super-store/assets/77902443/3a852d4e-516f-4fd1-83d3-9c31b0288219 width="150px"/> |
+| **`Data Cleaning`**| <img alt="Go SDK" src="https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparen-1.png" width="150px"/> |
+| **`Exploratory Data Analysis`**| <img alt="Go SDK" src=https://github.com/saeedshiranii/Global-super-store/assets/77902443/f8bd7f3d-d02b-423a-978a-6231588077be height="70px" width="150px"/> |
+| **`RFM Segmentation`** ||
+| **`Creating Interactive Dashboards`** ||
+| **`Writing Report`** ||
 
 
 ## Contact
