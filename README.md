@@ -23,7 +23,7 @@ You can download the dataset of this project from the following link: [Online Re
 
 
 
-## 🛠 Tools
+## 🛠 Tools and Skills
 
 | **`Tool`** | **`Icon`** |
 |---|---|
