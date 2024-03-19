@@ -37,7 +37,7 @@ You can download the dataset of this project from the following link: [Online Re
 ## Contact
 
 If you have any suggestions or feedback, you can reach me via email at saeedshirani7878@gmail.com
-or visit my LinkedIn profile:[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-shirani)
+or visit my LinkedIn profile:  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-shirani)
 
 
 
