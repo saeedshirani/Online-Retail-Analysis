@@ -16,14 +16,14 @@ To work with this project, you'll need to have Python installed, along with thes
 
 If you want to run the dashboards, make sure to install Power BI Desktop as well.
 ## 🔗Dataset Link
-You can download the dataset of this project from the following link: [Online Retail Dataset](https://github.com/saeedshiranii/Data_Analysis/blob/main/Pesronal%20projects/Online%20Retail%20Analysis/online_retail.csv)
+You can download the dataset of this project from the following link: [Online Retail Dataset](https://drive.google.com/drive/folders/1O-CBkyWQjBV8N2EX15Mfd1xuotXF7XGC)
 
 
 
 
 
 
-## 🛠 Skills
+## 🛠 Tools
 
 | **`Tool`** | **`Icon`** |
 |---|---|
@@ -31,9 +31,7 @@ You can download the dataset of this project from the following link: [Online Re
 | **`PowerBI`**| <img alt="Go SDK" src=https://github.com/saeedshiranii/Global-super-store/assets/77902443/3a852d4e-516f-4fd1-83d3-9c31b0288219 width="150px"/> |
 | **`Data Cleaning`**| <img alt="Go SDK" src="https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparen-1.png" width="150px"/> |
 | **`Exploratory Data Analysis`**| <img alt="Go SDK" src=https://github.com/saeedshiranii/Global-super-store/assets/77902443/f8bd7f3d-d02b-423a-978a-6231588077be height="70px" width="150px"/> |
-| **`RFM Segmentation`** ||
-| **`Creating Interactive Dashboards`** ||
-| **`Writing Report`** ||
+
 
 
 ## Contact
